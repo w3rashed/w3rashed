@@ -18,17 +18,5 @@ Skills: REACT / JS / HTML / CSS/ NODE JS / EXPRESS JS /  MongoDB / FIREBASE / NE
 - 📫 How to reach me: Linkedin, WhatsApp, email 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/w3rashed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/w3rashed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/w3rashed)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/w3rashed)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/w3rashed)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/w3rashed&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/w3rashed/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/w3rashed)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/w3rashed)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=w3rashed&label=Profile%20views&color=0e75b6&style=flat" alt="w3rashed" /> </p>
 

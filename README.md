@@ -22,7 +22,7 @@ Email: w3rashed@gmail.com
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">]([https://www.linkedin.com/in/mirhussainmurtaza/)](https://www.linkedin.com/in/w3rashed/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]([https://www.facebook.com/mirhussainmurtaza](https://web.facebook.com/w3rashed)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>]([https://twitter.com/_mir_hussain_](https://x.com/w3rashed)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/w3rashed/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/w3rashed)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/w3rashed)
 
 <br />
 

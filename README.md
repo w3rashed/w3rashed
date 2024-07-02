@@ -18,13 +18,7 @@ Email: w3rashed@gmail.com
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=w3rashed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-## :mailbox: Reach me out
 
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/w3rashed/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/w3rashed)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/w3rashed)
-
-<br />
 
 ## :computer: Technologies that I know
 

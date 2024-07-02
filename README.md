@@ -41,8 +41,6 @@ Email: w3rashed@gmail.com
 </p>
 <br/>
 
-Skills: REACT / JS / HTML / CSS/ NODE JS / EXPRESS JS /  MongoDB / FIREBASE / NEXT JS ETC
-
 - 🌱 I’m currently learning NEXT JS 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
